@@ -1,0 +1,15 @@
+{
+  "name": "conjoin",
+  "version": "0.1.0",
+  "description": "Conjoin objects",
+  "scripts": {
+    "test": "mocha"
+  },
+  "main": "index.js",
+  "author": "Michael Andrew Vanasse <mail@mndvns.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "should": "^4.0.4",
+    "mocha": "^1.21.4"
+  }
+}
