@@ -18,9 +18,9 @@ conjoin(c, b, a);
 ```
 
 ```
-// or go from right to left
+// or go from left to right
 
-conjoin.rtl(c, b, a);
+conjoin.ltr(c, b, a);
 // => { a: 1, b: 5, c: 5, d: 0 });
 ```
 
@@ -33,8 +33,16 @@ conjoin.mutate(c, b, a);
 
 ## Installation
 
+Via (npm(1))[https://www.npmjs.org/doc/]:
+
 ```sh
 npm install conjoin
+```
+
+Via (component(1))[https://github.com/componentjs/component]:
+
+```sh
+component install mndvns/conjoin
 ```
 
 ## Tests
