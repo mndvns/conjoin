@@ -33,13 +33,13 @@ conjoin.mutate(c, b, a);
 
 ## Installation
 
-Via (npm(1))[https://www.npmjs.org/doc/]:
+Via [npm(1)](https://www.npmjs.org/doc):
 
 ```sh
 npm install conjoin
 ```
 
-Via (component(1))[https://github.com/componentjs/component]:
+Via [component(1)](https://github.com/componentjs/component):
 
 ```sh
 component install mndvns/conjoin
