@@ -39,7 +39,9 @@ npm install conjoin
 
 ## Tests
 
-    npm test
+```
+npm test
+```
 
 ## License
 

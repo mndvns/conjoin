@@ -1,0 +1,14 @@
+{
+  "name": "conjoin",
+  "repo": "mndvns/conjoin",
+  "description": "Conjoin objects",
+  "version": "0.1.0",
+  "keywords": ["object", "join", "merge"],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
